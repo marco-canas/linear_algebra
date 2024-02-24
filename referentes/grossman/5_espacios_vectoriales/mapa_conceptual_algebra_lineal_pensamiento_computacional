@@ -1,0 +1,14 @@
+digraph {
+	A [label="Álgebra Lineal y
+Pensamiento Computacional"]
+	B [label="Conceptos de Álgebra Lineal"]
+	C [label="Pensamiento Computacional"]
+	D [label="Numpy y Sympy"]
+	E [label="Aplicaciones en
+Ingeniería Agropecuaria"]
+	A -> B
+	A -> C
+	A -> D
+	A -> E
+	rankdir=LR
+}
