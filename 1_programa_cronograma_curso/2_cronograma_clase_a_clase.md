@@ -45,7 +45,7 @@ El contenido del curso es el siguiente:
 
 Siendo que el libro Guía para el curso será el de "Álgebra Lineal de Clara Elena Mejía Laverde". "  
 
-Perfecto, Marco 😊. Te propongo un **cronograma clase a clase**, coherente con:
+# **cronograma clase a clase**, coherente con:
 
 * Estudiantes de **Ingeniería Agropecuaria – Campus Caucasia (UdeA)**
 * Curso previo de **Geometría Vectorial**
@@ -57,7 +57,7 @@ Perfecto, Marco 😊. Te propongo un **cronograma clase a clase**, coherente con
 
 ---
 
-## 📅 Cronograma clase a clase – Álgebra Lineal
+# Cronograma clase a clase – Álgebra Lineal
 
 **Horario:** Martes, 2:00 p.m. – 6:00 p.m.
 
@@ -81,17 +81,11 @@ Perfecto, Marco 😊. Te propongo un **cronograma clase a clase**, coherente con
 
 ---
 
-## 🎥 Enfoque de los videos de aplicación
+## Enfoque de los videos de aplicación
 
 1. **Video 1:** Álgebra lineal para preprocesamiento de datos agrícolas
 2. **Video 2:** Regresión y mínimos cuadrados en producción agropecuaria
 3. **Video 3:** PCA y análisis espectral en datasets agrícolas
 4. **Video 4:** Álgebra lineal en machine learning y deep learning (matrices, covarianzas, eigenvalores)
 
----
 
-Si quieres, en el siguiente paso puedo:
-
-* Ajustarlo al **formato oficial de microcurrículo UdeA**,
-* Diseñar los **contenidos de cada parcial**, o
-* Proponer **notebooks en Python** alineados con cada video 📊🌱
