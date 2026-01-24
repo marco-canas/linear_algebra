@@ -169,7 +169,7 @@ El curso contribuye a la formación integral fortaleciendo la racionalidad lógi
 ## BIBLIOGRAFÍA
 
 **Colombia**
-Mejía Laverde, C. E. *Álgebra Lineal*. Universidad de Antioquia.
+Mejía Laverde, C. E. *Álgebra Lineal*. Universidad de Antioquia. Que puede obtener [aquí](https://www.academia.edu/43065939/Alg_Lineal_Clara_Mejia_Universidad_de_Ant)
 
 **Internacional**
 Lay, D. *Linear Algebra and Its Applications*. Pearson.
@@ -203,7 +203,7 @@ Ya te dejé **el programa completo del curso de Álgebra Lineal** en el **format
 * El **cronograma clase a clase** que diseñamos
 * Los **cinco parciales** (con progresión conceptual clara)
 * El enfoque en **Ingeniería Agropecuaria**, **ciencia de datos**, **machine learning** y **Python**
-* El libro guía de **Clara Elena Mejía Laverde**
+* El libro guía de **Clara Elena Mejía Laverde**. Que puede obtener [aquí](https://www.academia.edu/43065939/Alg_Lineal_Clara_Mejia_Universidad_de_Ant)
 * La estructura del **formato institucional versión 04 (2023)**
 
 El documento ya está **listo para revisión académica**, ajustes administrativos (código MARES, acta, firmas) y **presentación ante Consejo de Unidad**.
