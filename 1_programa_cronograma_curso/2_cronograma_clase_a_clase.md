@@ -57,7 +57,9 @@ Siendo que el libro Guía para el curso será el de "Álgebra Lineal de Clara El
 
 ---
 
-# Cronograma clase a clase – Álgebra Lineal
+# Cronograma clase a clase – Álgebra Lineal  
+
+## [Video de presentación del cronograma](https://www.youtube.com/watch?v=9w3ggGHIvTU)  
 
 **Horario:** Martes, 2:00 p.m. – 6:00 p.m.
 
