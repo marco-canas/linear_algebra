@@ -18,3 +18,12 @@
 | Abr 28 | Cap.4 Mód.17 | Diagonalización | Optimización de procesos | Parcial 3 + Video 3 |
 | May 5 | Cap.4 Mód.18-19 y Cap.5 Mód.20 | Aplicaciones y diagonalización ortogonal | Dinámica de sistemas agrícolas | Parcial 4 + Video 4 |
 | May 12 | Cap.5 Mód.21-22 | Formas cuadráticas y aproximación espectral | ML y deep learning en agro | Parcial 5 (Final) |
+
+
+Día: Martes
+Hora: 2:00 a 6:00 PM
+Fechas:
+Febrero: 10-17-24                                                                        
+Marzo: 3-10-17-24                                                                        
+Abril: 7-14-21-28                                                                          
+Mayo: 5 - 12
