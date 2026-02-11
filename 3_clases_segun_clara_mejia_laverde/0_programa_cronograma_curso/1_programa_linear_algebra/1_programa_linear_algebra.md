@@ -156,14 +156,13 @@ El curso contribuye a la formación integral fortaleciendo la racionalidad lógi
 
 **Momentos y porcentajes:**
 
-| Momento de evaluación | Porcentaje |
-| --------------------- | ---------- |
-| Parcial 1             | 20 %       |
-| Parcial 2             | 20 %       |
-| Parcial 3             | 20 %       |
-| Parcial 4             | 20 %       |
-| Parcial 5 (Final)     | 20 %       |
-
+| Momento de evaluación | Porcentaje |fecha|
+| --------------------- | ---------- |-----|
+| Parcial 1             | 20 %       |marzo 3 Martes de 4 a 6 de la tarde|
+| Parcial 2             | 20 %       |marzo 31 Martes a 4 a 6 PM |
+| Parcial 3             | 20 %       |28 de abril de 4 a 6 PM|
+| Parcial 4             | 20 %       |12 de mayo de 4 a 6 PM|
+| 4 talleres. Uno por parcial o 4 videos cada uno con cuaderno Jupyter  | 20 %||
 ---
 
 ## BIBLIOGRAFÍA
